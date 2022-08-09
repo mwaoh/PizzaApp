@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PizzaApp</string>
+    <string name="pasta">pasta</string>
+    <string name="pizza_image">pizzaimage</string>
+</resources>
